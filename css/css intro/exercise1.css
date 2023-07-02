@@ -1,0 +1,40 @@
+#red{
+    color:red;
+    font-weight: normal;
+}
+.color{
+    height: 200px;
+    width: 200px;
+}
+#blue{
+    color: blue;
+    font-weight: normal;
+}
+img[alt="blue"]{
+    height: 200px;
+width: 200px;    
+}
+#orange{
+    color: orange;
+    font-weight: normal;
+}
+img[alt="orange"]{
+    height: 200px;
+    width: 200px;
+}
+#green{
+    color: green;
+    font-weight: normal;
+}
+img[alt="green"]{
+    height: 200px;
+    width: 200px;
+}
+#yellow{
+    color: yellow;
+    font-weight: normal;
+}
+img[alt="yellow"]{
+    height: 200px;
+    width: 200px;
+}
